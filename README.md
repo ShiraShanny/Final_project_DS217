@@ -18,7 +18,8 @@ Basic instructions on how to install dependencies with poetry or pip, and run th
 
 This is a simple Streamlit-based web application that uses machine learning models for food product classification. It allows users to upload an image of a food product, which is then classified into one of several categories using a deep learning model.
 
-##Huggingface link: https://huggingface.co/spaces/wweavishayaknin/fooddatectiontorecipe
+## Huggingface link
+https://huggingface.co/spaces/wweavishayaknin/fooddatectiontorecipe
 
 ## Features
 - **Food Image Classification**: Upload food images to classify them into predefined categories.
